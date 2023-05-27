@@ -1,0 +1,2 @@
+Having similarity calculated the user containing the desired movie the user with the minimum
+value of euclidean distance is selected and then his rating is used as a prediction in task

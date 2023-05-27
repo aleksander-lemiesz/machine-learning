@@ -1,0 +1,2 @@
+As a measure of similarity the jaccard similarity was used. It measures the relation between two sets.
+It is based on two operations based on sets, namely intersection and union.

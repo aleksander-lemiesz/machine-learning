@@ -1,0 +1,1 @@
+The program uses genres as features as strings such as "Science Fiction" or "Drama". The genres are stored in a set.

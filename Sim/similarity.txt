@@ -1,0 +1,1 @@
+Used similarity measure is euclidean distance calculated by summing squared difference between rating of each of the movies

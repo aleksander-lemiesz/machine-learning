@@ -1,0 +1,16 @@
+features = [
+0        'budget',
+1        'popularity',
+2        'release_date',
+3        'revenue',
+4        'vote_average',
+5        'vote_count'
+        ]
+
+user_id = 5
+
+                                            f=0, th=12_000_000
+                                    f=5, th=9_029                           4
+                f=5, th=1_338                   f=2, th=1971
+        4               f=1, th=13.865      2           f=4, th=8.137
+                      3             4               3           4
